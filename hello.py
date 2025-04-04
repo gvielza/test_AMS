@@ -6,3 +6,8 @@ def suma(a,b):
 
 
 suma(4,5)
+
+def resta(a,b):
+    print(a-b)
+
+resta(10,4)
